@@ -1,0 +1,16 @@
+{
+  "name": "eslint-plugin-nova",
+  "version": "1.0.0",
+  "description": "ESLint globals for Nova extensions",
+  "author": "Panic Inc.",
+  "license": "ISC",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "main": "eslint-plugin-nova",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}

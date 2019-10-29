@@ -7,13 +7,13 @@ ESLint rules for Nova extensions
 You'll first need to install [ESLint](http://eslint.org):
 
 ```
-$ npm i eslint --save-dev
+$ npm install eslint --save-dev
 ```
 
 Next, install `eslint-plugin-nova`:
 
 ```
-$ npm install eslint-plugin-nova --save-dev
+$ npm install git+https://dev.panic.com/ashur/eslint-plugin-nova.git --save-dev
 ```
 
 **Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-nova` globally.

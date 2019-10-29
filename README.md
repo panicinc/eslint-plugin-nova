@@ -1,6 +1,6 @@
 # eslint-plugin-nova
 
-ESLint rules for Nova extensions
+ESLint rules for the Nova extension API.
 
 ## Installation
 

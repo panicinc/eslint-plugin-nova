@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-nova",
-  "version": "1.0b",
+  "version": "1.0.0-beta.2",
   "description": "ESLint rules for the Nova extension API",
   "author": "Ashur Cabrera <hello@ashur.cab>",
   "license": "ISC",

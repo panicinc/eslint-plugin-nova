@@ -1,16 +1,13 @@
 {
   "name": "eslint-plugin-nova",
-  "version": "1.0.0",
-  "description": "ESLint globals for Nova extensions",
-  "author": "Panic Inc.",
+  "version": "1.0b",
+  "description": "ESLint rules for the Nova extension API",
+  "author": "Ashur Cabrera <hello@ashur.cab>",
   "license": "ISC",
   "keywords": [
     "eslint",
     "eslintplugin",
     "eslint-plugin"
   ],
-  "main": "eslint-plugin-nova",
-  "scripts": {},
-  "dependencies": {},
-  "devDependencies": {}
+  "main": "eslint-plugin-nova"
 }

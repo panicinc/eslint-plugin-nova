@@ -3,6 +3,7 @@ module.exports = {
         nova: {
             globals: {
                "ByteLengthQueueingStrategy": "readonly",
+               "Color": "readonly",
                "CompletionItem": "readonly",
                "CompletionItemKind": "readonly",
                "CompletionReason": "readonly",
@@ -10,7 +11,6 @@ module.exports = {
                "CountQueueingStrategy": "readonly",
                "Disposable": "readonly",
                "Emitter": "readonly",
-               "FileSystemWatcher": "readonly",
                "Headers": "readonly",
                "Issue": "readonly",
                "IssueCollection": "readonly",
@@ -27,6 +27,7 @@ module.exports = {
                "TextEncoder": "readonly",
                "TransformStream": "readonly",
                "TreeItem": "readonly",
+               "TreeItemCollapsibleState": "readonly",
                "TreeView": "readonly",
                "WritableStream": "readonly",
                "atob": "readonly",

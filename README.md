@@ -13,7 +13,7 @@ $ npm install eslint --save-dev
 Next, install `eslint-plugin-nova`:
 
 ```
-$ npm install git+https://dev.panic.com/ashur/eslint-plugin-nova.git --save-dev
+$ npm install eslint-plugin-nova --save-dev
 ```
 
 **Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-nova` globally.

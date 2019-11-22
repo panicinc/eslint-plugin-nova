@@ -24,6 +24,7 @@ module.exports = {
                "Request": "readonly",
                "Response": "readonly",
                "TextDecoder": "readonly",
+               "TextEditor": "readonly",
                "TextEncoder": "readonly",
                "TransformStream": "readonly",
                "TreeItem": "readonly",

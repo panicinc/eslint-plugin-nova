@@ -6,10 +6,6 @@ const plugin = require( "../../eslint-plugin-nova" );
 
 try
 {
-	// Plugin should define the Nova environment
-	console.assert( plugin.environments instanceof Object, "environments exists and is an Object" );
-	console.assert( plugin.environments.nova instanceof Object, "environments.nova exists and is an Object" );
-
 	// Plugin should define all supported Nova globals
 	console.assert( plugin.environments.nova.globals instanceof Object, "environments.nova.globals exists and is an Object" );
 

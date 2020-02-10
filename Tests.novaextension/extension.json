@@ -1,0 +1,8 @@
+{
+	"identifier": "eslint-plugin-nova.tests",
+	"name": "eslint-plugin-nova.tests",
+	"vendor": "Ashur Cabrera",
+	"description": "Tests for eslint-plugin-nova",
+	"version": "0.0.0",
+	"main": "main.js"
+}

@@ -3,6 +3,7 @@ module.exports = {
         nova: {
             globals: {
                "ByteLengthQueueingStrategy": "readonly",
+               "Charset": "readonly",
                "Color": "readonly",
                "CompletionItem": "readonly",
                "CompletionItemKind": "readonly",
@@ -23,6 +24,7 @@ module.exports = {
                "ReadableStream": "readonly",
                "Request": "readonly",
                "Response": "readonly",
+               "Scanner": "readonly",
                "TextDecoder": "readonly",
                "TextEditor": "readonly",
                "TextEncoder": "readonly",

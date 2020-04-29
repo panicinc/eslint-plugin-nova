@@ -15,6 +15,7 @@ module.exports = {
                "Headers": "readonly",
                "Issue": "readonly",
                "IssueCollection": "readonly",
+               "IssueParser": "readonly",
                "IssueSeverity": "readonly",
                "LanguageClient": "readonly",
                "Modules": "readonly",

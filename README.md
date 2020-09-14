@@ -1,10 +1,10 @@
 # eslint-plugin-nova
 
-ESLint rules for the Nova extension API.
+ESLint rules for the [Nova extension API](https://docs.nova.app).
 
 ## Installation
 
-You'll first need to install [ESLint](http://eslint.org):
+You'll first need to install [ESLint](https://eslint.org/):
 
 ```
 $ npm install eslint --save-dev

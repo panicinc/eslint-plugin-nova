@@ -6,12 +6,13 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://dev.panic.com/ashur/eslint-plugin-nova.git"
+    "url": "https://dev.panic.com/ashur/eslint-plugin-nova"
   },
   "keywords": [
     "eslint",
     "eslintplugin",
-    "eslint-plugin"
+    "eslint-plugin",
+    "nova"
   ],
   "main": "eslint-plugin-nova"
 }

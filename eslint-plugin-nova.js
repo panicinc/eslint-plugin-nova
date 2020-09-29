@@ -13,6 +13,7 @@ module.exports = {
                "Disposable": "readonly",
                "Emitter": "readonly",
                "Headers": "readonly",
+               "InsertTextFormat": "readonly",
                "Issue": "readonly",
                "IssueCollection": "readonly",
                "IssueParser": "readonly",

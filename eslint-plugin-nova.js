@@ -28,6 +28,7 @@ module.exports = {
                "Response": "readonly",
                "Scanner": "readonly",
                "TextDecoder": "readonly",
+               "TextEdit": "readonly",
                "TextEditor": "readonly",
                "TextEncoder": "readonly",
                "TransformStream": "readonly",

@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [1.2.0] - 2020-10-22
+### Added
+- `Task`
+- `TaskProcessAction`
+- `TextEdit`
+
 ## [1.1.0] - 2020-09-28
 ### Added
 - `InsertTextFormat`

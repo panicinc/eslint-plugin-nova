@@ -28,6 +28,7 @@ module.exports = {
                "Response": "readonly",
                "Scanner": "readonly",
                "Task": "readonly",
+               "TaskCommandAction": "readonly",
                "TaskProcessAction": "readonly",
                "TextDecoder": "readonly",
                "TextEdit": "readonly",

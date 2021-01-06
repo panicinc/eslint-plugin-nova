@@ -30,6 +30,7 @@ module.exports = {
                "Task": "readonly",
                "TaskCommandAction": "readonly",
                "TaskProcessAction": "readonly",
+               "TaskResolvableAction": "readonly",
                "TextDecoder": "readonly",
                "TextEdit": "readonly",
                "TextEditor": "readonly",

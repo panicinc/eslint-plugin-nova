@@ -52,6 +52,7 @@ module.exports = {
                "console": "readonly",
                "fetch": "readonly",
                "nova": "readonly",
+               "self": "readonly",
                "setInterval": "readonly",
                "setTimeout": "readonly",
             }

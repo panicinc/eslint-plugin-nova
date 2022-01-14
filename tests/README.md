@@ -13,7 +13,23 @@ In lieu of a full test suite, this project contains a **Tests.novaextension** bu
 If any assertion has failed, it will be logged and the tests will halt:
 
 ```
-Assertion Failed: environments.nova.globals.Color is readonly
+Assertion Failed: `environments.nova.globals.Color` is not defined
+```
+
+Instructions for updating the list of Nova extension globals will also be logged:
+
+```
+If `Color` is a valid new global in the Nova extension runtime, add the following property in eslint-plugin-nova.js located at the root of this project:
+
+	environments: {
+		nova: {
+			globals: {
+				"Color": "readonly"
+			}
+		}
+	}
+
+Otherwise, please report this to the Nova development team.
 ```
 
 If all tests are passing, the following should be logged:

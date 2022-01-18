@@ -1,12 +1,12 @@
 {
   "name": "eslint-plugin-nova",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "description": "ESLint rules for the Nova extension API",
-  "author": "Ashur Cabrera <hello@ashur.cab>",
+  "author": "Panic, Inc. <npm@panic.com>",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ashur/eslint-plugin-nova"
+    "url": "https://github.com/panicinc/eslint-plugin-nova"
   },
   "keywords": [
     "eslint",

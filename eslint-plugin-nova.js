@@ -55,6 +55,7 @@ module.exports = {
                "self": "readonly",
                "setInterval": "readonly",
                "setTimeout": "readonly",
+               "TaskDebugAdapterAction": "readonly",
             }
         }
     }
